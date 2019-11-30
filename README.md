@@ -1,4 +1,4 @@
-# vuetify-mobile-app
+# vuetify router jest boilerplate
 
 ## Project setup
 ```
